@@ -1,4 +1,7 @@
-# ObjectToArray
+# [Solved]
+
+<img src="https://dominicode.com/wp-content/uploads/Screenshot-2021-01-24-at-13.06.25.png"
+     alt="Cannot find a differ supporting object '[object Object]' of type 'object'. NgFor only supports binding to Iterables such as Arrays." />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
