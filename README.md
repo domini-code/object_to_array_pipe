@@ -1,9 +1,11 @@
 # [Solved]
 
-<img src="https://dominicode.com/wp-content/uploads/Screenshot-2021-01-24-at-13.06.25.png"
-     alt="Cannot find a differ supporting object '[object Object]' of type 'object'. NgFor only supports binding to Iterables such as Arrays." />
+[![NgFor only supports binding to Iterables such as Arrays. ](https://dominicode.com/wp-content/uploads/Screenshot-2021-01-24-at-13.06.25.png)](https://www.youtube.com/watch?v=WndFarOvOlk)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+
+[![SEE VIDEO ](http://i3.ytimg.com/vi/WndFarOvOlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=WndFarOvOlk)
+
 
 ## Development server
 
